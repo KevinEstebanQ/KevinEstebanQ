@@ -23,7 +23,7 @@
 ### About Me
 
 - &nbsp;B.S. Computer Engineering — **Florida International University**, Cum Laude (GPA 3.64)
-- &nbsp;4+ years shipping production software: Flask, Node.js, CI/CD, DNS & SSL at VIZA
+- &nbsp;4+ years shipping software: Flask, Node.js, CI/CD, DNS & SSL at VIZA
 - &nbsp;Currently building: **FinanceTrackerService** — live microservice API, deployed on Railway
 - &nbsp;Looking for **Backend / SWE roles** — remote or Tampa Bay hybrid
 
